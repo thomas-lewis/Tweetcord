@@ -1,4 +1,4 @@
 import discord
 
-def t():
+def start_client():
     discord.Client()
